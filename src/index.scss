@@ -1,0 +1,14 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+.btn-bg{
+    background-image: linear-gradient(to right, rgb(4, 0, 123) , rgb(43, 57, 185));
+}
+
+.hero-heading{
+   
+  background: -webkit-linear-gradient( rgb(4, 0, 123), rgb(43, 57, 185));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
