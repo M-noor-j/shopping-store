@@ -1,14 +1,16 @@
 *{
     font-family: 'Raleway', sans-serif;
 }
-
+// .bg-hero{
+//   background-image: linear-gradient(to right, rgb(7, 1, 174) , rgb(77, 95, 254));
+// }
 .btn-bg{
     background-image: linear-gradient(to right, rgb(4, 0, 123) , rgb(43, 57, 185));
 }
 
 .hero-heading{
    
-  background: -webkit-linear-gradient( rgb(4, 0, 123), rgb(43, 57, 185));
+  background: -webkit-linear-gradient( rgb(49, 44, 182), rgb(87, 103, 245));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

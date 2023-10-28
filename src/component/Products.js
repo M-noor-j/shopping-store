@@ -4,7 +4,10 @@ import Container from 'react-bootstrap/Container';
 const Products = () => {
   return (
     <>
-    <Container>
+    <Container fluid className='mt-5'>
+      <div className='bg-light shadow fw-bolder py-3 fs-1 ps-4 ' style={{borderLeft:"blue 5px solid "}}>
+      Featured Products
+      </div>
     <ProductCard/>
     </Container>
     </>
